@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm_web:war">
+    <output-path>$USER_HOME$/java课件/ssm综合练习/ssm综合练习_day02/代码/分页代码/heima_ssm/ssm_web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm_web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm_web.war">
+      <element id="artifact" artifact-name="ssm_web:war exploded" />
+    </root>
+  </artifact>
+</component>
